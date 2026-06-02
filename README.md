@@ -80,7 +80,7 @@ The dataset contains employee-related information such as:
 ---
 
 # 📁 Project Structure
-
+``` text
 HR-Analytics-Employee-Attrition-Prediction
 │
 ├── data
@@ -107,7 +107,7 @@ HR-Analytics-Employee-Attrition-Prediction
 ├── requirements.txt
 │
 └── README.md
-
+```
 ---
 
 # 🧹 Data Cleaning & Preprocessing
