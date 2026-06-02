@@ -59,9 +59,8 @@ The dataset contains employee-related information such as:
 
 ### Dataset Size
 
-```text
+
 10,000+ Employee Records
-```
 
 ---
 
@@ -87,25 +86,16 @@ HR-Analytics-Employee-Attrition-Prediction
 │
 ├── data
 │   ├── raw
-│   │   └── employee_data.csv
-│   │
-│   └── processed
-│       └── cleaned_employee_data.csv
-│
+│      └── employee_attrition_data.csv
+│   
 ├── notebooks
-│   ├── 01_Data_Cleaning.ipynb
-│   ├── 02_Exploratory_Data_Analysis.ipynb
-│   ├── 03_Feature_Engineering.ipynb
-│   └── 04_Machine_Learning_Model.ipynb
+│  ├── HR_Attrition_Analysis.ipynb
 │
 ├── sql
 │   └── hr_analysis_queries.sql
 │
 ├── dashboard
 │   └── HR_Analytics_Dashboard.pbix
-│
-├── models
-│   └── attrition_model.pkl
 │
 ├── screenshots
 │   ├── executive_dashboard.png
