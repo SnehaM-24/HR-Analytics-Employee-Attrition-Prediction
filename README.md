@@ -316,9 +316,7 @@ The Random Forest model achieved the best overall predictive performance and was
 
 **Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning**
 
-* LinkedIn: *Add your LinkedIn profile link*
-* GitHub: *Add your GitHub profile link*
+* LinkedIn: https://www.linkedin.com/in/sneha-madyapgol-5920862b9/
+* GitHub: https://github.com/SnehaM-24/HR-Analytics-Employee-Attrition-Prediction
 
 ---
-
-## If you found this project useful, consider giving it a ⭐ on GitHub.
