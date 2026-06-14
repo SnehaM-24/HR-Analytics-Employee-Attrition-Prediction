@@ -77,13 +77,10 @@ This project aims to:
 HR-Analytics-Employee-Attrition-Prediction
 │
 ├── data
-│   ├── raw
 │   └── processed
 │
 ├── notebooks
-│   ├── 01_Data_Cleaning.ipynb
-│   ├── 02_EDA.ipynb
-│   └── 03_Machine_Learning.ipynb
+│   ├── 01_HR_Attrition_Analysis.ipynb
 │
 ├── sql
 │   └── hr_analysis_queries.sql
@@ -95,9 +92,7 @@ HR-Analytics-Employee-Attrition-Prediction
 │   └── attrition_model.pkl
 │
 ├── reports
-│   ├── Business_Report.pdf
-│   ├── Dashboard_Insights.pdf
-│   └── Technical_Documentation.pdf
+│   └── Business_Report.pdf
 │
 ├── screenshots
 │   ├── dashboard_page1.png
